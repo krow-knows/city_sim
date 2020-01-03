@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"OFFICE_EXTERIOR","order":1,"parentId":0,"scrollX":1390,"scrollY":1580}
+{"id":1,"expanded":false,"name":"OFFICE_EXTERIOR","order":1,"parentId":0,"scrollX":1606.8,"scrollY":1668},
+{"id":2,"expanded":false,"name":"SHOP_INTERIOR","order":2,"parentId":0,"scrollX":982.8,"scrollY":573.6}
 ]
