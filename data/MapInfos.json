@@ -3,5 +3,5 @@ null,
 {"id":1,"expanded":false,"name":"OFFICE_EXTERIOR","order":1,"parentId":0,"scrollX":1587.6,"scrollY":1647.6},
 {"id":2,"expanded":true,"name":"SHOP_INTERIOR","order":2,"parentId":0,"scrollX":982.8,"scrollY":573.6},
 {"id":3,"expanded":true,"name":"TOWN","order":3,"parentId":0,"scrollX":1041.6,"scrollY":1095.6},
-{"id":4,"expanded":false,"name":"APT INSIDE","order":4,"parentId":0,"scrollX":982.8,"scrollY":577.1999999999999}
+{"id":4,"expanded":false,"name":"APT INSIDE","order":4,"parentId":0,"scrollX":982.8,"scrollY":576}
 ]
